@@ -2,11 +2,13 @@
 
 Este projeto analisa e compara o tempo de execução de algoritmos de ordenação clássicos (Bubble Sort, Merge Sort e Quick Sort).
 
-## Sobre o Projeto:
+## 🚀 Sobre o Projeto
 
-Este repositório foi criado como um projeto de Estrutura de Dados para analisar a performance dos algoritmos Bubble Sort, Merge Sort e Quick Sort. O objetivo é ver, na prática, como cada algoritmo se comporta ao ordenar um conjunto de dados.
+[cite_start]O objetivo deste projeto é **desenvolver um sistema em linguagem Java para analisar a performance** de diferentes algoritmos de ordenação de dados. 
 
-## Tecnologias Utilizadas:
+[cite_start]A proposta foi aplicar de forma prática os conceitos de Estrutura de Dados, comparando os métodos para compreender como eles se comportam em situações distintas (listas ordenadas, semiordenadas e aleatórias). 
+
+## 💻 Tecnologias Utilizadas
 
 * **Linguagem:** 100% Java (sem bibliotecas externas)
 
